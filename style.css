@@ -1,0 +1,53 @@
+.trending img{
+    height: 230px;
+    object-fit: contain;
+}
+ul{
+   list-style: none;
+}
+.raj{
+  
+    height: 200px;
+}
+.aparadhimg img{
+    height: 150px;
+}
+
+.bichar img{
+    height: 230px;
+    object-fit: contain;
+}
+ .sport img{
+    height: 220px;
+    object-fit: contain;
+ }
+ .artha img{
+    height: 230px;
+    object-fit: contain;
+ }
+
+ .balen img{
+    height: 240px;
+    object-fit: contain;
+ }
+
+ .health img{
+    height: 300px;
+    object-fit: contain;
+ }
+
+ .photo{
+    position: relative;
+    overflow: hidden;
+ }
+
+ .photo-1{
+    position: absolute;
+   width: 100%;
+   bottom: -10px;
+   color: white;
+   padding: 15px;
+   background-color: rgba(0, 0, 0, 0.363);
+ }
+
+ 
